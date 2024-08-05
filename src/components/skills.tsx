@@ -63,7 +63,7 @@ function Skills() {
     <div className="flex flex-wrap gap-5">
       {skills.map((skill, index) => {
         return (
-          <div key={index} className="bg-ecru rounded-md p-2">
+          <div key={index} className="bg-ecru rounded-full p-3">
             <p className="font-medium">{skill.name}</p>
           </div>
         );

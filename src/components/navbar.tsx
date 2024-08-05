@@ -8,7 +8,7 @@ const links = [
 
 function Nav() {
   return (
-    <nav className="flex gap-8">
+    <nav className="flex gap-8 max-md:hidden">
       {links.map((link, index) => {
         return (
           <a href={link.path} key={index}>

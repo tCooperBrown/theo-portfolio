@@ -19,7 +19,7 @@ const contact = [
 function ContactMe() {
   return (
     <div className="mt-10">
-      <h2>Contact Me</h2>
+      <h1 className="text-center mb-8">Contact Me</h1>
       <div className="flex gap-40 justify-center">
         {contact.map((contact, index) => (
           <a href={contact.url} key={index} target="_blank">
