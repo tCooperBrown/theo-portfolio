@@ -1,0 +1,13 @@
+.drawer {
+  position: -webkit-fixed;
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  transform: translateX(-100%);
+  transition: 500ms;
+}
+
+.drawerOpen {
+  transform: translateX(0);
+}
