@@ -6,18 +6,16 @@ function About() {
           About
         </h2>
         <p>
-          Results-driven software developer with a unique blend of enterprise
-          technologies and cyber auditing acumen and expertise. Leveraging a
-          strong academic foundation in Accounting & Finance and professional
-          experience in IT Audit and Cyber Security, I bring an analytical
-          approach to problem-solving in software development with the aim of
-          building resilient and solid digital products. Having developed code
-          as a personal endeavour for over five years, I recently completed an
-          intensive Codeworks Software Engineering bootcamp, expanding my
-          experience with JavaScript, React.js, Next.js, and Express.js towards
-          product innovation at scale. I am eager to apply my diverse skill set
-          and passion for continuous learning to make an immediate impact in a
-          dynamic development team.
+          Results-driven software developer with a unique blend of financial
+          acumen and technology expertise. Leveraging a strong academic in
+          Accounting & Finance and professional experience in IT Audit, I bring
+          an analytical approach to problem-solving in software development.
+          Recently completed an intensive 3-month Codeworks Software Engineering
+          bootcamp, gaining hands-on experience with JavaScript/TypeScript,
+          React, Next.js, and Express.js through immersive 72-hour weeks. Eager
+          to apply my diverse skill set, passion for continuous learning, and
+          technical skills to make an immediate impact in a dynamic development
+          team.
         </p>
       </div>
     </div>
